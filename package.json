@@ -1,0 +1,9 @@
+{
+  "name": "redux-pipe",
+  "version": "0.1.0",
+  "description": "Using the redux-saga easliy.",
+  "main": "dist/index.js",
+  "repository": "git@github.com:zsirfs/redux-pipe.git",
+  "author": "zsirfs <zhenglfsir@gmail.com>",
+  "license": "Apache License"
+}
